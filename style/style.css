@@ -1,19 +1,25 @@
 body{
     background-color: #dae4ee;
-
 }
+
 .home{
     height: 100vh;
     background: linear-gradient(
-        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.8), 
         rgba(0,0,0,0.2)),
-        url('../image/backgr.jpeg');
-       
-       
-       background-size: cover;
+        url('../image/background.jpg');
+    background-size: cover;
 }
+
 .intro{
-    color:black;
+    color: whitesmoke;
     padding: 10% 20%;
     text-align: justify;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.name{
+    font-size: 5em;
+    font-weight: 500;
 }
