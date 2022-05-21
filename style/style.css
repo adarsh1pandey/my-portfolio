@@ -23,3 +23,19 @@ body{
     font-size: 5em;
     font-weight: 500;
 }
+.project1
+{
+    padding: 50px 100px;
+    
+    background-color: rgb(170, 206, 206);
+}
+.project2
+{
+    padding: 50px 100px;
+    background-color: bisque; 
+}
+.project3
+{
+    padding: 50px 100px;
+    background-color: aquamarine;
+}
